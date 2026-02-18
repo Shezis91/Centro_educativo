@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Centro Educativo Aixa Llaüt</title>
+    <link>https://mallorca.institucio.org/es/</link>
+    <description>Noticias y novedades del centro educativo</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Jornada de Puertas Abiertas 2026</title>
+      <description>Los días 6 y 20 de febrero, 6 y 20 de marzo y 17 de abril celebraremos nuestra jornada de puertas abiertas para familias y futuros alumnos.</description>
+      <link>https://mallorca.institucio.org/es/actualidad/jornades-de-portes-obertes-al-mes-de-febrer-1-es-es</link>
+      <pubDate>Mon, 16 Feb 2026 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Aprender a debatir para aprender a pensar</title>
+      <description>Los alumnos de 3º de la ESO participan en la Liga de Debate Escolar de Clave Consulting</description>
+      <link>https://mallorca.institucio.org/es/actualidad/aprender-a-debatir-para-aprender-a-pensar</link>
+      <pubDate>Tue, 10 Feb 2026 09:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
