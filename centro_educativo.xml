@@ -1,35 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Centro Educativo Aixa Llaüt</title>
-<link>https://mallorca.institucio.org/es/</link>
-<description>Noticias y novedades del centro educativo</description>
-<language>es-es</language>
+  <title>Centro Educativo Aixa Llaüt</title>
+  <link>https://mallorca.institucio.org/es/</link>
+  <description>Noticias y novedades del centro educativo</description>
+  <language>es-es</language>
 
-<item>
-<title>Aprender a debatir para aprender a pensar</title>
-<description>Los alumnos de 3º de la ESO participan en la Liga de Debate Escolar de Clave Consulting</description>
-<link>https://mallorca.institucio.org/es/actualidad/aprender-a-debatir-para-aprender-a-pensar</link>
-<guid>https://mallorca.institucio.org/es/actualidad/aprender-a-debatir-para-aprender-a-pensar</guid>
-<pubDate>Tue, 10 Feb 2026 09:00:00 +0000</pubDate>
-</item>
+  <!-- Ítem 1: Mejor colegio concertado -->
+  <item>
+    <title>Mejor colegio concertado de Baleares según el ranking de Micole</title>
+    <description>Micole nos sitúa, una vez más, en el TOP 3 de mejores colegios por detrás de Ágora Portals y Luis Vives</description>
+    <link>https://mallorca.institucio.org/es/actualidad/micole-nos-situa-una-vez-mas-en-el-top3-de-mejores-colegios</link>
+    <guid isPermaLink="false">micole-top3-20260218</guid>
+    <author>secretaria@aixa-net.org</author>
+    <category>Noticias</category>
+    <pubDate>Tue, 18 Feb 2026 14:10:00 +0000</pubDate>
+  </item>
 
-<item>
-<title>Mejor colegio concertado de Baleares según el ranking de Micole</title>
-<description>Micole nos sitúa, una vez más, en el TOP 3 de mejores colegios por detras de Ágora Portals y Luis Vives</description>
-<link>https://mallorca.institucio.org/es/actualidad/micole-nos-situa-una-vez-mas-en-el-top3-de-mejores-colegios</link>
-<guid>https://mallorca.institucio.org/es/actualidad/micole-nos-situa-una-vez-mas-en-el-top3-de-mejores-colegios</guid>
-<author>secretaria@aixa-net.org</author>
-<category>Noticias</category>
-<pubDate>Fri, 23 Jan 2026 11:00:00 +0000</pubDate>
-</item>
+  <!-- Ítem 2: Jornada de Puertas Abiertas -->
+  <item>
+    <title>Jornada de Puertas Abiertas 2026</title>
+    <description>Los días 6 y 20 de febrero, 6 y 20 de marzo y 17 de abril celebraremos nuestra jornada de puertas abiertas para familias y futuros alumnos.</description>
+    <link>https://mallorca.institucio.org/es/actualidad/jornades-de-portes-obertes-al-mes-de-febrer-1-es-es</link>
+    <guid isPermaLink="false">jornada-puertas-abiertas-20260218</guid>
+    <author>secretaria@aixa-net.org</author>
+    <category>Noticias</category>
+    <pubDate>Tue, 18 Feb 2026 14:05:00 +0000</pubDate>
+  </item>
 
-<item>
-<title>Jornada de Puertas Abiertas 2026</title>
-<description>Los días 6 y 20 de febrero, 6 y 20 de marzo y 17 de abril celebraremos nuestra jornada de puertas abiertas para familias y futuros alumnos.</description>
-<link>https://mallorca.institucio.org/es/actualidad/jornades-de-portes-obertes-al-mes-de-febrer-1-es-es</link>
-<guid>https://mallorca.institucio.org/es/actualidad/jornades-de-portes-obertes-al-mes-de-febrer-1-es-es</guid>
-<pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
-</item>
+  <!-- Ítem 3: Aprender a debatir -->
+  <item>
+    <title>Aprender a debatir para aprender a pensar</title>
+    <description>Los alumnos de 3º de la ESO participan en la Liga de Debate Escolar de Clave Consulting</description>
+    <link>https://mallorca.institucio.org/es/actualidad/aprender-a-debatir-para-aprender-a-pensar</link>
+    <guid isPermaLink="false">debatir-aprender-20260217</guid>
+    <author>secretaria@aixa-net.org</author>
+    <category>Noticias</category>
+    <pubDate>Mon, 17 Feb 2026 09:00:00 +0000</pubDate>
+  </item>
 
 </channel>
 </rss>
